@@ -1,0 +1,8 @@
+{
+    "require": {
+        "firebase/php-jwt": "dev-master",
+        "zendframework/zend-http": "~2.3",
+        "zendframework/zend-config": "~2.3",
+        "firephp/firephp-core": "^0.4.0"
+    }
+}
